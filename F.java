@@ -23,4 +23,8 @@ public class F {
     public double ee() {
         return 500.100;
     }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
 }

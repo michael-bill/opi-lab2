@@ -23,4 +23,8 @@ public class A {
     public float ff() {
         return 0;
     }
+
+    public int cc() {
+        return 42;
+    }
 }

@@ -23,4 +23,8 @@ public class H {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
 }

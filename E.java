@@ -23,4 +23,8 @@ public class E extends A {
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
+
+    public int ae() {
+        return 8;
+    }
 }
