@@ -27,8 +27,11 @@ public class A extends null {
     public float ff() {
         return 0;
     }
+<<<<<<< HEAD
 
     public int cc() {
         return 42;
     }
+=======
+>>>>>>> branch1
 }
