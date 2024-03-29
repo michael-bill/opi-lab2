@@ -15,4 +15,8 @@ public class E extends A {
     public double ad() {
         return java.lang.Math.sqrt(13);
     }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
 }

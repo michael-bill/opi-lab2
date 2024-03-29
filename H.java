@@ -15,4 +15,8 @@ public class H {
     public double ad() {
         return java.lang.Math.sqrt(13);
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }

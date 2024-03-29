@@ -15,4 +15,8 @@ public class F {
     public void aa() {
         return;
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
 }

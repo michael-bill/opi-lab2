@@ -15,4 +15,8 @@ public class A {
     public long dd() {
         return 99999;
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }
