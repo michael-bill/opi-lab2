@@ -19,4 +19,8 @@ public class A {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public float ff() {
+        return 0;
+    }
 }

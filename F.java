@@ -19,4 +19,8 @@ public class F {
     public int ae() {
         return java.lang.Math.abs(-6);
     }
+
+    public double ee() {
+        return 500.100;
+    }
 }
