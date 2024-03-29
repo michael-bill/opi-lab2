@@ -11,4 +11,8 @@ public class H {
     public void aa() {
         return;
     }
+
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
 }
