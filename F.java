@@ -11,24 +11,4 @@ public class F {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
-
-    public void aa() {
-        return;
-    }
-
-    public int ae() {
-        return java.lang.Math.abs(-6);
-    }
-
-    public double ee() {
-        return 500.100;
-    }
-
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
-    }
-
-    public void ab() {
-        return;
-    }
 }
