@@ -11,8 +11,4 @@ public class E extends A {
     public int hh() {
         return new java.util.Random().nextInt();
     }
-
-    public double ad() {
-        return java.lang.Math.sqrt(13);
-    }
 }

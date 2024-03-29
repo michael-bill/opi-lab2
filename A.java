@@ -11,8 +11,4 @@ public class A {
     public Object gg() {
         return return getClass().getClassLoader();
     }
-
-    public long dd() {
-        return 99999;
-    }
 }
