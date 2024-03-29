@@ -11,4 +11,8 @@ public class F {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public void aa() {
+        return;
+    }
 }
