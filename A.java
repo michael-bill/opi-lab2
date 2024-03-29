@@ -27,4 +27,8 @@ public class A {
     public int cc() {
         return 42;
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
 }

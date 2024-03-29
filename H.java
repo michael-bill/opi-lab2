@@ -27,4 +27,8 @@ public class H {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }
