@@ -43,4 +43,8 @@ public class H extends null {
     public int af() {
         return -1;
     }
+
+    public Object rr() {
+        return null;
+    }
 }

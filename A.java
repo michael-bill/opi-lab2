@@ -43,4 +43,8 @@ public class A extends null {
     public double ad() {
         return 11.09;
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }

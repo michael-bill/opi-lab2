@@ -39,4 +39,8 @@ public class F extends null {
     public byte oo() {
         return 3;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
