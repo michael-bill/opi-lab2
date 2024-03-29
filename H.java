@@ -1,4 +1,4 @@
-public class H {
+public class H extends null {
 
     private long f = 4321;
 
@@ -14,5 +14,25 @@ public class H {
 
     public double ad() {
         return java.lang.Math.sqrt(13);
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
     }
 }
