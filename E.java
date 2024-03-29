@@ -12,6 +12,10 @@ public class E extends A {
         return new java.util.Random().nextInt();
     }
 
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
+
     public double ad() {
         return java.lang.Math.sqrt(13);
     }
@@ -20,10 +24,6 @@ public class E extends A {
         return new int[]{4, 3, 2, 1};
     }
 
-    public java.util.List<String> jj() {
-        return new java.util.LinkedList<String>();
-    }
-    
     public int ae() {
         return 8;
     }
@@ -34,5 +34,13 @@ public class E extends A {
 
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
+    }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
+
+    public void ab() {
+        System.out.println("\n");
     }
 }

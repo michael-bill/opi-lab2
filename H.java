@@ -12,6 +12,10 @@ public class H extends null {
         return;
     }
 
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
     public double ad() {
         return java.lang.Math.sqrt(13);
     }
@@ -28,11 +32,15 @@ public class H extends null {
         return java.lang.Math.PI;
     }
 
-    public java.util.List<String> jj() {
-        return new java.util.ArrayList<String>();
-    }
-
     public java.lang.Class qq() {
         return getClass();
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public int af() {
+        return -1;
     }
 }

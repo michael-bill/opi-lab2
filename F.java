@@ -12,12 +12,12 @@ public class F extends null {
         return new java.util.ArrayList<String>();
     }
 
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
+    public void aa() {
+        System.out.println("void aa");
     }
 
-    public void aa() {
-        return;
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
     }
 
     public int ae() {
@@ -27,8 +27,16 @@ public class F extends null {
     public double ee() {
         return 500.100;
     }
-    
+
     public void ab() {
         return;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public byte oo() {
+        return 3;
     }
 }

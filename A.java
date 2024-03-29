@@ -27,11 +27,20 @@ public class A extends null {
     public float ff() {
         return 0;
     }
-<<<<<<< HEAD
 
     public int cc() {
         return 42;
     }
-=======
->>>>>>> branch1
+
+    public byte oo() {
+        return 4;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public double ad() {
+        return 11.09;
+    }
 }
